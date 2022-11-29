@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-hoc-vs-hook/static/css/main.2187596c.css",
+    "main.js": "/react-form-hoc-vs-hook/static/js/main.d0fdc2f4.js",
+    "index.html": "/react-form-hoc-vs-hook/index.html",
+    "main.2187596c.css.map": "/react-form-hoc-vs-hook/static/css/main.2187596c.css.map",
+    "main.d0fdc2f4.js.map": "/react-form-hoc-vs-hook/static/js/main.d0fdc2f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2187596c.css",
+    "static/js/main.d0fdc2f4.js"
+  ]
+}
